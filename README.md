@@ -1,2 +1,2 @@
 # Hit-Bricks
-Good Game Well Played!
+A hit bricks game based on canvas.
